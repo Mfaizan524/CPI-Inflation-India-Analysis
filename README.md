@@ -58,7 +58,7 @@ Modify filters or charts to customize insights.
 **Tools Used**: Microsoft Excel
 
 
-**Connect with Me**
+**Connect with Me:**
 
 **LinkedIn:** https://www.linkedin.com/in/contact-mohd-faizan/
 
