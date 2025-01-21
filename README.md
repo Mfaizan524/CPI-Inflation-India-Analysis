@@ -31,27 +31,71 @@ The Consumer Price Index (CPI) is a critical indicator for understanding inflati
 
 **Storytelling:** Presented findings through a clean and intuitive dashboard.
 
-Problem Statement & Analysis Steps
-1. Contribution of Broader Categories to CPI
+**Problem Statement & Analysis Steps**
+
+**1. Contribution of Broader Categories to CPI**
+
 Combine similar categories (e.g., Food = Meals, Beverages, Cereals).
+
 Calculate and graph the contribution of each broader category to the CPI basket (totaling 100%).
+
 Identify the category with the highest contribution.
-2. Year-on-Year (YoY) CPI Trend Analysis (2017 Onwards)
+
+**2. Year-on-Year (YoY) CPI Trend Analysis (2017 Onwards)**
+
 Compute YoY CPI inflation for rural and urban categories.
+
 Plot YoY inflation trends and identify the year with the highest inflation rate.
+
 Research and highlight the reasons for this spike.
-3. Retail Inflation Analysis (Nov 2022 – May 2023)
+
+**3. Retail Inflation Analysis (Nov 2022 – May 2023)**
+
 Analyze month-on-month inflation for the broader food category.
+
 Identify months with the highest and lowest food inflation.
+
 Determine the biggest individual contributor to inflation within the food category over the 12-month period.
-4. Impact of COVID-19 on Inflation (Mar 2020 Onwards)
+
+**4. Impact of COVID-19 on Inflation (Mar 2020 Onwards)**
+
 Compare inflation rates before and after Mar 2020 (pandemic onset).
+
 Focus on key categories like healthcare, food, and essential services.
+
 Highlight inflation trends during major pandemic milestones (e.g., lockdown).
-5. Impact of Global Events on Inflation (2021–2023)
+
+**5. Impact of Global Events on Inflation (2021–2023)**
+
 Analyze imported oil price fluctuations (month-on-month).
+
 Identify trends and correlation between oil prices and inflation across all categories.
+
 Highlight the category most influenced by oil price changes.
+
+**Data Preprocessing and Analysis:**
+
+**Error and Blank Value Handling
+**
+Identified errors and blank rows in the dataset.
+
+Applied imputation techniques (e.g., moving average, median) using a helper column to fill missing values.
+
+**Data Validation:**
+
+Used pivot tables to check data distribution and ensure no discrepancies.
+
+**Data Analysis:**
+
+Performed analysis using Excel formulas like COUNTIF, SUMIF, and advanced functions such as CORREL for deeper insights.
+
+**Deliverables**
+
+Excel workbook with the complete analysis.
+
+Graphs and charts visualizing key insights (e.g., YoY inflation trends, category contributions).
+
+Summary report highlighting the findings and actionable insights.
 
 **Dataset:**
 
