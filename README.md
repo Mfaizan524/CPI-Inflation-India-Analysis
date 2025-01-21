@@ -45,7 +45,7 @@ Edit
 
 git clone https://github.com/Mfaizan524/cpi-india-inflation.git
 
-**Open the Excel file**: India_CPI_Inflation_Trends.xlsx (Copy and Paste this path)
+**Open the Excel file**: https://github.com/Mfaizan524/CPI-Inflation-India-Analysis/blob/main/India_CPI_Inflation_Trends.xlsx
 
 Explore the dashboard to visualize and interact with the data.
 
