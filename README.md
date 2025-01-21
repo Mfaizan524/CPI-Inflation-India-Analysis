@@ -31,7 +31,8 @@ The Consumer Price Index (CPI) is a critical indicator for understanding inflati
 
 **Storytelling:** Presented findings through a clean and intuitive dashboard.
 
-**Problem Statement & Analysis Steps**
+
+**Problem Statement & Analysis Steps:**
 
 **1. Contribution of Broader Categories to CPI**
 
